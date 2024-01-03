@@ -1,9 +1,10 @@
+# bad practice 1
 FROM python
 
+# bad practice 2
 COPY . /app
 
-WORKDIR /app
+RUN pip install -r /app/requirements.txt
 
-RUN pip install -r requirements.txt
-
-CMD ["python3", "app.py"]
+# bad practice 3
+CMD ["python3", "/app/app.py"]
