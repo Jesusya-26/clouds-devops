@@ -13,7 +13,7 @@
 
 **Аналитические лабы**
 1. [Лабораторная работа №1]()
-2. [Лабораторная работа №2]()
+2. [Лабораторная работа №2](https://github.com/Jesusya-26/clouds-devops/blob/main/analytic_lab_2/README.md)
 
 **Теоритические задания**
 1. [Контейнеры](https://github.com/Jesusya-26/clouds-devops/tree/main/theory#задание-1)
