@@ -23,7 +23,9 @@
 
 **Logic Apps** – это облачный сервис, предоставляющий инструменты для создания автоматизированных бизнес-процессов без написания кода. Сервис предлагает графический интерфейс для легкого создания и настройки интеграционных сценариев, позволяя связывать различные службы и приложения, как внутри облака Azure, так и вне его. Azure Logic Apps поддерживает триггеры, условия, а также обеспечивает мониторинг и отладку для управления выполнением бизнес-процессов.
 
-**Machine Learning** – это облачный сервис, предоставляющий средства для разработки, обучения и развертывания моделей машинного обучения в облаке Azure. Сервис обеспечивает простоту создания и обучения моделей, а также интеграцию с другими сервисами Azure для полноценной работы с данными и максимальной производительности разрабатываемых моделей.
+**Azure Machine Learning** – это облачный сервис, предоставляющий средства для разработки, обучения и развертывания моделей машинного обучения в облаке Azure. Сервис обеспечивает простоту создания и обучения моделей, а также интеграцию с другими сервисами Azure для полноценной работы с данными и максимальной производительности разрабатываемых моделей.
+
+**Azure Cognitive Services** - это облачный сервис от Microsoft Azure, предоставляющий разнообразные API и инструменты для внедрения искусственного интеллекта в приложения. Сервис включает в себя множество когнитивных функций, таких как распознавание изображений, анализ текста, обработка речи, машинный перевод и другие возможности машинного обучения. Разработчики могут использовать эти API для придания своим приложениям продвинутых возможностей восприятия и понимания контента.
 
 **Azure VPN Gateway** предоставляет средства для создания безопасных виртуальных частных сетей между облачной инфраструктурой и внешними сетями. Сервис поддерживает как сайт-к-сайту (Site-to-Site) VPN, так и удаленный доступ (Point-to-Site) VPN, обеспечивая защиту передаваемых данных и установление приватных сетевых соединений.
 
@@ -45,7 +47,19 @@
 
 ## Маппинг Azure сервисов на российские аналоги
 
-
+| **Сервис Azure** | **Российский аналог** |
+| --- | --- |
+| Azure SQL Data Warehouse | [Yandex Managed Data Warehouse (YMDW)](https://cloud.yandex.ru/ru/solutions/data-warehouse) |
+| Azure Functions | [Yandex Cloud Functions](https://cloud.yandex.ru/ru/docs/functions/) |
+| Insight and Analytics | [Yandex Monitoring](https://cloud.yandex.ru/ru/docs/monitoring/) |
+| Key Vault | [Yandex LockBox](https://cloud.yandex.com/ru/docs/lockbox/) |
+| Logic Apps | [Cloud.ru Orchestration Service](https://cloud.ru/ru/products/application-orchestration-service) |
+| Azure Machine Learning | [Yandex DataSphere](https://cloud.yandex.com/ru/docs/datasphere/) |
+| Azure Cognitive Services | [YandexGPT API](https://cloud.yandex.com/ru/docs/yandexgpt/) |
+| Azure VPN Gateway, Azure Traffic Manager, Azure Firewall | [Yandex Virtual Private Cloud](https://cloud.yandex.com/ru/docs/vpc/) |
+| Azure Site Recovery | [Yandex Cloud Backup](https://cloud.yandex.com/ru/docs/backup/) |
+| Azure IoT Hub | [Yandex IoT Core](https://cloud.yandex.com/ru/docs/iot-core/) |
+| Azure Virtual Machines | [Yandex Compute Cloud](https://cloud.yandex.com/ru/docs/compute/) |
 
 ## Итоговая таблица
 
