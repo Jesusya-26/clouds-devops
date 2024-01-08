@@ -6,7 +6,7 @@
 
 ### Навигация: 
 
-**Devops**
+**DevOps**
 1. [Лабораторная работа №1](https://github.com/Jesusya-26/devops/tree/main/lab-1) со звёздочкой
 2. [Лабораторная работа №2](https://github.com/Jesusya-26/devops/tree/main/lab-2)
 3. [Лабораторная работа №3](https://github.com/pheroom/clouds-itmo-2023/blob/main/DevOps-Lab-3/README.md)
