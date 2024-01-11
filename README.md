@@ -12,7 +12,7 @@
 3. [Лабораторная работа №3](https://github.com/pheroom/clouds-itmo-2023/blob/main/DevOps-Lab-3/README.md)
 
 **Аналитические лабы**
-1. [AWS]()
+1. [AWS](https://github.com/artem-aboimov/clouds/blob/main/analytic_lab_1.md)
 2. [Azure](https://github.com/Jesusya-26/clouds-devops/blob/main/analytic_lab_2/README.md)
 
 **Теоритические задания**
